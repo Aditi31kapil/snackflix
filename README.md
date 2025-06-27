@@ -81,7 +81,7 @@ Snackflix was our fun, AI-powered answer to that — where absurdity meets artis
 
 ## 🏆 Accomplishments
 
-- Built a complete AI movie generator in under X days *(fill in based on your timeline)*
+- Built a complete AI movie generator in under 6 hours using BOLT.new
 - Seamless integration of Gemini text + image APIs
 - Designed a fun, expressive, and functional UI
 
