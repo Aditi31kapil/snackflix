@@ -54,7 +54,9 @@ Snackflix was our fun, AI-powered answer to that — where absurdity meets artis
 
 ## 📸 Screenshots
 
-*(Include if available — drag image files into this section or use markdown image links)*
+![Alt Text](https://github.com/Aditi31kapil/snackflix/blob/main/Screenshot%202025-06-27%20201115.png)
+![2nd image](https://github.com/Aditi31kapil/snackflix/blob/main/Screenshot%202025-06-27%20201331.png)
+![3rd image](https://github.com/Aditi31kapil/snackflix/blob/main/Screenshot%202025-06-27%20201349.png)
 
 ---
 
